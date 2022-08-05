@@ -2,7 +2,7 @@ const App = () => {
   const categories = [
     {
       id: 1,
-      title: 'Hats',
+      title: 'Hats', 
     },
     {
       id: 2,
